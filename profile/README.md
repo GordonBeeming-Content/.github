@@ -2,9 +2,7 @@
 
 I make some videos over at [https://www.youtube.com/@gordonbeeming](https://www.youtube.com/@gordonbeeming), most the time I remember to post the source code here. 
 
-If you want to get the source code visit [https://www.patreon.com/GordonBeeming](https://www.patreon.com/GordonBeeming) and then ping me with your GitHub handle (until I have a better integration 😅).
-
-I generally try remember to make repositories open to everyone around 2 months after a video goes out, so if you do need the code and aren't able to get it early through patreon, check back later 🙂.
+If you found a video really helpful and want to support the effort a little, head over to [https://www.patreon.com/GordonBeeming](https://www.patreon.com/GordonBeeming).
 
 You can also find me at these urls:
 - 🌎 [https://gordonbeeming.com/](https://gordonbeeming.com/)
